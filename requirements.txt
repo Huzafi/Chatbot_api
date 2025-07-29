@@ -1,0 +1,14 @@
+# First Install Below Package in your Terminal
+
+# Pip install uv
+
+# uv init chatbot_api
+
+# pip install fastapi[standard]
+# pip install openai-agents
+
+#To run this Project 
+
+# Enter the Below Command in you terminal
+
+#uvicorn main:app --reload
